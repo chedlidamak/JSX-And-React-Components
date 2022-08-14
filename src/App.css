@@ -1,0 +1,19 @@
+.App {
+    background-color: rgb(55, 83, 83);
+    text-align: center;
+}
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-items {
+    display: flex;
+    list-style: none;
+}
+.nav-items > li {
+    padding: 10px;
+}
+.Nav-logo {
+    width: 100px;
+}
